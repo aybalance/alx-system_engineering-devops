@@ -1,1 +1,1 @@
-add user asd betty
+To print the current username of users
